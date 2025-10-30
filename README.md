@@ -39,7 +39,7 @@
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/task-tracker-smart-insights.git
+git clone https://github.com/karangholap154/Task-Tracker-with-Smart-Insights
 cd task-tracker-smart-insights
 ```
 
